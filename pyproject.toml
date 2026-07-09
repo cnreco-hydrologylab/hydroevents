@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hydroevents"
+version = "1.0.0"
+description = "Python tools for streamflow preprocessing, recession analysis, baseflow separation, and rainfall–runoff event identification."
+readme = "README.md"
+requires-python = ">=3.10"
+
+authors = [
+  { name = "Sofia Ortenzi" },
+  { name = "Lucio Di Matteo" },
+  { name = "Martina Natali" },
+  { name = "Christian Massari" }
+]
+
+dependencies = [
+  "numpy",
+  "pandas",
+  "scipy",
+  "scikit-learn",
+  "matplotlib",
+  "plotly",
+  "openpyxl"
+]
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "License :: OSI Approved :: ",
+  "Operating System :: OS Independent",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

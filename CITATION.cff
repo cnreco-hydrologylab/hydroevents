@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+
+type: software
+title: "HydroEvents"
+version: "1.0.0"
+date-released: "2026-07-09"
+
+authors:
+  - family-names: "Ortenzi"
+    given-names: "Sofia"
+    affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
+    orcid: "https://orcid.org/0000-0002-9227-7407"
+
+  - family-names: "Di Matteo"
+    given-names: "Lucio"
+    affiliation: "University of Perugia, Department of Physics and Geology, Perugia, Italy"
+    orcid: "https://orcid.org/0000-0002-3352-3858"
+
+  - family-names: "Natali"
+    given-names: "Martina"
+    affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
+    orcid: "https://orcid.org/0009-0007-5466-686X"
+
+  - family-names: "Massari"
+    given-names: "Christian"
+    affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
+    orcid: "https://orcid.org/0000-0003-0983-1276"
+
+doi: "10.xxxx/xxxxx"
+
+repository-code: "https://github.com/cnreco-hydrologylab/hydroevents"
+
+license: "BSD-3-Clause"
