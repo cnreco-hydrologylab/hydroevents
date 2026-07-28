@@ -4,7 +4,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "HydroEvents"
 version: "0.1.0"
-date-released: "2026-07-09"
+date-released: "2026-07-28"
 
 authors:
   - family-names: "Ortenzi"
@@ -27,7 +27,9 @@ authors:
     affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
     orcid: "https://orcid.org/0000-0003-0983-1276"
 
-doi: "10.5281/zenodo.21650374"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21650374
 
 repository-code: "https://github.com/cnreco-hydrologylab/hydroevents"
 
