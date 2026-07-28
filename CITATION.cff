@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 
 type: software
 title: "HydroEvents"
-version: "1.0.0"
+version: "0.1.0"
 date-released: "2026-07-09"
 
 authors:
