@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1294907041.svg)](https://doi.org/10.5281/zenodo.21650373)
+
 # HydroEvents
 
 HydroEvents is an open-source Python package for rainfall–runoff event extraction and event-based hydrological analysis. The workflow combines streamflow preprocessing, Master Recession Curve (MRC) analysis, baseflow separation, rainfall–runoff event identification, and event-scale runoff modelling within a single reproducible framework.
@@ -198,12 +200,10 @@ hydroevents/
 
 ## Citation
 
-If you use HydroEvents in scientific work, please cite the associated software publication and/or repository.
-
-Zenodo DOI:
+If you use HydroEvents in scientific work, please cite the associated software publication and/or repository via the Zenodo DOI in the badge at the beginning of this README, or from the DOI url:
 
 ```text
-DOI_PLACEHOLDER
+10.5281/zenodo.21650374
 ```
 
 GitHub automatically provides citation formats through the `CITATION.cff` file.
