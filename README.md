@@ -219,7 +219,8 @@ This project is licensed under the BSD-3-Clause License as reported in the LICEN
 ## Author(s)
 
 - Sofia Ortenzi (sofia.ortenzi@cnr.it)
-- Lucio Di Matteo (lucio.dimatteo@unipg.it)
-- Martina Natali (martinanatali@cnr.it)
 - Christian Massari (christian.massari@cnr.it)
+- Martina Natali (martinanatali@cnr.it)
+- Marco Dionigi (marco.giornigi@cnr.it)
+- Lucio Di Matteo (lucio.dimatteo@unipg.it)
 
