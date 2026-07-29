@@ -203,7 +203,7 @@ hydroevents/
 If you use HydroEvents in scientific work, please cite the associated software publication and/or repository via the Zenodo DOI in the badge at the beginning of this README, or from the DOI url:
 
 ```text
-10.5281/zenodo.21650374
+10.5281/zenodo.21650373
 ```
 
 GitHub automatically provides citation formats through the `CITATION.cff` file.
