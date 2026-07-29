@@ -221,6 +221,6 @@ This project is licensed under the BSD-3-Clause License as reported in the LICEN
 - Sofia Ortenzi (sofia.ortenzi@cnr.it)
 - Christian Massari (christian.massari@cnr.it)
 - Martina Natali (martinanatali@cnr.it)
-- Marco Dionigi (marco.giornigi@cnr.it)
+- Marco Dionigi (marco.dionigi@cnr.it)
 - Lucio Di Matteo (lucio.dimatteo@unipg.it)
 
