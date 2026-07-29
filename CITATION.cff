@@ -4,7 +4,7 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "HydroEvents"
 version: "0.1.0"
-date-released: "2026-07-28"
+date-released: "2026-07-29"
 
 authors:
   - family-names: "Ortenzi"
@@ -12,20 +12,25 @@ authors:
     affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
     orcid: "https://orcid.org/0000-0002-9227-7407"
 
-  - family-names: "Di Matteo"
-    given-names: "Lucio"
-    affiliation: "University of Perugia, Department of Physics and Geology, Perugia, Italy"
-    orcid: "https://orcid.org/0000-0002-3352-3858"
+  - family-names: "Massari"
+    given-names: "Christian"
+    affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
+    orcid: "https://orcid.org/0000-0003-0983-1276"
 
   - family-names: "Natali"
     given-names: "Martina"
     affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
     orcid: "https://orcid.org/0009-0007-5466-686X"
 
-  - family-names: "Massari"
-    given-names: "Christian"
+  - family-names: "Dionigi"
+    given-names: "Marco"
     affiliation: "National Research Council of Italy (CNR), Institute of Geosciences (GEO), Perugia, Italy"
-    orcid: "https://orcid.org/0000-0003-0983-1276"
+    orcid: "https://orcid.org/0000-0002-2949-7175"
+
+  - family-names: "Di Matteo"
+    given-names: "Lucio"
+    affiliation: "University of Perugia, Department of Physics and Geology, Perugia, Italy"
+    orcid: "https://orcid.org/0000-0002-3352-3858"
 
 identifiers:
   - type: doi
