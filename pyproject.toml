@@ -42,3 +42,27 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.bumpversion]
+current_version = "0.1.1"
+allow_dirty = false
+commit = true
+tag = true
+tag_name = "v{new_version}"
+message = "Bump version: {current_version} -> {new_version}"
+
+[[tool.bumpversion.files]]
+filename = "pyproject.toml"
+search = 'version = "{current_version}"'
+replace = 'version = "{new_version}"'
+
+[[tool.bumpversion.files]]
+filename = "CITATION.cff"
+search = 'version: "{current_version}"'
+replace = 'version: "{new_version}"'
+
+[[tool.bumpversion.files]]
+filename = "CITATION.cff"
+search = 'date-released: "[^"]*"'
+replace = 'date-released: "{now:%Y-%m-%d}"'
+regex = true
