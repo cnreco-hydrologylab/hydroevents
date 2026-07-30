@@ -47,10 +47,18 @@ Streamflow preprocessing
 
 ## Installation
 
+Install the latest release from PyPI:
+
+```bash
+pip install hydroevents
+```
+
+### From source
+
 Clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/yourusername/hydroevents.git
+git clone https://github.com/cnreco-hydrologylab/hydroevents.git
 cd hydroevents
 pip install -e .
 ```
@@ -60,7 +68,7 @@ pip install -e .
 If you plan to contribute, run the notebooks, or want a fully reproducible environment, set up the dedicated conda environment instead:
 
 ```bash
-git clone https://github.com/yourusername/hydroevents.git
+git clone https://github.com/cnreco-hydrologylab/hydroevents.git
 cd hydroevents
 conda env create -f environment.yml
 conda activate hydroevents
