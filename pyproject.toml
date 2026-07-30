@@ -11,10 +11,10 @@ requires-python = ">=3.10"
 
 authors = [
   { name = "Sofia Ortenzi" },
-  { name = "Christian Massari" }
+  { name = "Christian Massari" },
   { name = "Martina Natali" },
   { name = "Marco Dionigi" },
-  { name = "Lucio Di Matteo" },
+  { name = "Lucio Di Matteo" }
 ]
 
 dependencies = [
